@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">LocalMark</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_password_no_uppercase">Password must contain at least one uppercase letter</string>
+    <string name="error_password_no_special_char">Password must contain at least one special character</string>
+    <string name="error_username_required">Username is required</string>
+    <string name="error_username_too_short">Username must be at least 3 characters</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_github">Sign in with GitHub</string>
+    <string name="create_profile">Create profile</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="display_name">Display Name</string>
+    <string name="signin_subtitle">Your local matters</string>
+    <string name="username_placeholder">John Doe</string>
+    <string name="email_placeholder">johndoe@email.com</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="or">OR</string>
+    <string name="search_radius">SEARCH RADIUS</string>
+    <string name="just_now">Just now</string>
+    <string name="minute_ago">1 minute ago</string>
+    <string name="minutes_ago">%1$d minutes ago</string>
+    <string name="hour_m_ago">%1$d hour %2$d m ago</string>
+    <string name="new_to_grid">"No account? "</string>
+    <string name="create_a_profile">Create a profile</string>
+    <string name="have_an_account">"Already have an account? "</string>
+    <string name="all">All</string>
+    <string name="urgent_alert">URGENT ALERT</string>
+    <string name="alert">ALERT</string>
+    <string name="posting_at">POSTING AT</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="hazard">Hazard</string>
+    <string name="traffic">Traffic</string>
+    <string name="event">Event</string>
+    <string name="delete">Delete</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="error_add_marker">Failed to add marker</string>
+    <string name="error_delete_marker">Failed to delete marker</string>
+    <string name="error_confirm_marker">Failed to confirm marker</string>
+    <string name="error_update_marker">Failed to update marker</string>
+
+    <string name="sign_in_failed">Sign in failed</string>
+    <string name="sign_up_failed">Sign up failed</string>
+    <string name="sign_in_with_google_failed">Sign in with Google failed</string>
+    <string name="sign_in_with_github_failed">Sign in with GitHub failed</string>
+    <string name="password_reset_email_sent">Password reset link sent</string>
+    <string name="password_reset_failed">Password reset failed</string>
+    <string name="search_places">Search places…</string>
+    <string name="tag_your_alert">TAG YOUR ALERT</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="attach_photo">Attach Photo</string>
+    <string name="camera_permission_rationale">Camera permission is required to attach a photo.</string>
+    <string name="settings">Settings</string>
+    <string name="post_mark">Post Mark</string>
+    <string name="describe_the_alert">What\'s happening here?</string>
+    <string name="maximum_length_exceeded">Maximum length of %1$d characters exceeded</string>
+</resources>

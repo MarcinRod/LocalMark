@@ -1,0 +1,20 @@
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="1000" android:viewportWidth="1000" android:width="24dp">
+      
+    <path android:fillColor="#000000" android:pathData="M429.2,844C391,785.7 332.5,696.2 299.1,645.2 180.7,464.2 174.2,449.4 174.3,360.8 174.8,114.3 462.1,-33.8 678.6,101c22.8,14.2 23.3,11.1 -8.5,45.5l-13.2,14.3 -18.5,-10.9C453.2,40.5 214,183.4 237.7,389.4c19.7,171.6 223.4,275.7 381.7,194.9 4.2,-2.1 7.8,-3.6 8.1,-3.2 0.6,0.7 -49.9,79.2 -53.3,82.9 -2.2,2.5 -35.8,7.8 -60.9,9.7 -30.2,2.3 -81.4,-5 -117.6,-16.6 -9.5,-3.1 -17.3,-5.2 -17.3,-4.8 0,0.4 17.3,27.4 38.4,59.9 21.1,32.5 48.2,74.2 60.1,92.7 16.6,25.7 22.2,33.1 24,31.3 1.2,-1.3 27.5,-41 58.4,-88.3 30.9,-47.3 71.7,-109.7 90.7,-138.7 85.8,-130.9 90.3,-138.5 100.4,-169 17.9,-53.9 16.8,-110.6 -3.3,-163.9l-6.5,-17.3 20.9,-23.1c11.5,-12.7 21.7,-23.4 22.7,-23.7 2.6,-0.9 22.7,42.2 28.5,61 17.8,57.6 17.1,125.9 -1.9,183 -14,42 -10.5,36.4 -185.7,303.6C578.1,831.5 530.7,903.8 520,920.2 509.3,936.6 500.1,950 499.5,950c-0.5,0 -32.2,-47.7 -70.3,-106zM472.9,472.3c-6.3,-7 -36.1,-37.8 -66.1,-68.5l-54.6,-55.8 22.5,-22.5 22.5,-22.5 43.7,46c36.3,38.2 44.2,45.6 46.6,43.6 1.6,-1.3 32.9,-34.9 69.6,-74.7 106.9,-115.8 140.3,-152.2 180.8,-197 21,-23.2 38.8,-42.2 39.6,-42.3 0.8,-0.1 11.4,9.5 23.5,21.2l22,21.4 -12.9,13.3c-7.1,7.3 -37,39.7 -66.4,71.9 -90,98.6 -140.4,153.6 -222.1,241.8 -39.4,42.5 -34.1,39.9 -48.6,24z" android:strokeWidth="1.95421"/>
+    
+</vector>
