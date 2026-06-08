@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Google "G" logo — brand colours are fixed and must not be tinted.
+    ViewBox: 20 × 20 (matches the 20dp Canvas size used previously).
+    Coordinates derived from the proportional values in GoogleLogoIcon composable.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+
+    <!-- Blue segment -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M18.8,10.2
+            C18.8,9.56 18.74,8.94 18.64,8.34
+            L10.0,8.34
+            L10.0,11.88
+            L14.94,11.88
+            C14.72,13.02 14.06,13.98 13.08,14.62
+            L13.08,16.92
+            L16.06,16.92
+            C17.8,15.32 18.8,12.96 18.8,10.2
+            Z" />
+
+    <!-- Green segment -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M10.0,19.16
+            C12.48,19.16 14.56,18.34 16.06,16.92
+            L13.08,14.62
+            C12.26,15.16 11.2,15.46 10.0,15.46
+            C7.62,15.46 5.58,13.86 4.86,11.72
+            L1.82,11.72
+            L1.82,14.08
+            C3.32,17.12 6.42,19.16 10.0,19.16
+            Z" />
+
+    <!-- Yellow segment -->
+    <path
+        android:fillColor="#FBBC05"
+        android:pathData="M4.86,11.74
+            C4.68,11.18 4.58,10.6 4.58,10.0
+            C4.58,9.4 4.68,8.82 4.86,8.26
+            L4.86,5.9
+            L1.82,5.9
+            C1.2,7.14 0.84,8.52 0.84,10.0
+            C0.84,11.48 1.2,12.86 1.82,14.1
+            L4.86,11.74
+            Z" />
+
+    <!-- Red segment -->
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M10.0,4.5
+            C11.36,4.5 12.56,4.96 13.52,5.86
+            L16.14,3.24
+            C14.56,1.74 12.48,0.84 10.0,0.84
+            C6.42,0.84 3.32,2.9 1.82,5.92
+            L4.86,8.26
+            C5.58,6.14 7.62,4.5 10.0,4.5
+            Z" />
+
+</vector>
+
