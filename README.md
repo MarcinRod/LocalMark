@@ -9,7 +9,6 @@ A reference Android application demonstrating how to integrate Google Maps, Fire
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Architecture](#architecture)
-4. [Tech Stack](#tech-stack)
 5. [Project Setup](#project-setup)
 6. [Key API Documentation](#key-api-documentation)
 7. [Module Structure](#module-structure)
